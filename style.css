@@ -66,6 +66,10 @@ section.sobre{
   padding: 30px 0;
 }
 
+section.sobre p {
+  padding: 40px 0;
+}
+
 .custom-title{position: relative;}
 
 .custom-title h2{
