@@ -39,4 +39,4 @@ Desenvolvimento
 ---------------------
 -   [Rodolfo Peixoto](http://www.rogpe.me)
 -   [ Amanda Gregório ](http://)
--   [ Pedro Rodrigues ](http://)
+-   [ Pedro Rodrigues ](http://www.pedrorls.com)
