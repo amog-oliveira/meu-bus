@@ -61,7 +61,10 @@ section.chamada h2{
   font-size: 34px;
 }
 
-section.sobre{padding: 30px 0;}
+section.sobre{
+  height: 60vh;
+  padding: 30px 0;
+}
 
 .custom-title{position: relative;}
 
@@ -81,17 +84,22 @@ section.sobre{padding: 30px 0;}
 }
 
 section.diferenciais{
+  height: 60vh;
   padding:30px;
   color: #646464;
 }
 
 section.diferenciais .col-md-4{
-  padding: 0 40px;
+  padding: 45px 40px;
 }
 
 section.diferenciais h2{
   padding:20px;
   /*border-bottom: 1px dotted black;*/
+}
+
+.diff {
+  margin-top: 60px;
 }
 
 section.convite{
